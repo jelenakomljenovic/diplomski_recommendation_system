@@ -1,0 +1,4 @@
+Prikupljanje, čišćenje i organizacija sirovih podataka iz različitih izvora
+Analiziranje podataka kako bi se identifikovali obrasci, trendovi i anomalije
+Razvoj i primjena modela mašinskog učenja za rješavanje specifičnih problema
+Kreiranje vizualizacija koje jasno predstavljaju trendove dobijene iz analize podataka

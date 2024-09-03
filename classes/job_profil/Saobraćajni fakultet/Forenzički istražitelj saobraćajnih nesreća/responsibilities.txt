@@ -1,0 +1,5 @@
+Prisustvovanje na licu mjesta smrtonosnih i životno opasnih saobraćajnih nesreća
+Detaljna inspekcija vozila i njegovih komponenti kako bi se utvrdilo stanje vozila prije nesreće
+Crtanje detaljnih skica mjesta nesreće i izračunavanje parametara kao što su vrijeme reakcije vozača i udaljenost koja je potrebna da se vozilo zaustavi
+Korištenje naučnih metoda i formula za procjenu brzine vozila u trenutku sudara na osnovu stepena oštećenja vozila
+Analiza podataka sa tahografa

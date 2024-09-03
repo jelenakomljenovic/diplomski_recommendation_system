@@ -1,0 +1,3 @@
+Prikupljanje podataka iz različitih izvora u svrhu testiranja i izrade modela 
+Analiziranje obrazaca podataka
+Razvijanje i implementacija automatizovanih sistema za prikupljanje, obradu i analizu podataka

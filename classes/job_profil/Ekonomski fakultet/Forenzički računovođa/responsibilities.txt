@@ -1,0 +1,6 @@
+Istraživanje i praćenje novčanih tokova kako bi se locirala imovina koja je stečena nezakonitim putem ili koja je predmet spora
+Ekstrakcija relevantnih podataka iz različitih finansijskih zapisa i dokumenata
+Izrada i upravljanje tabelama za analizu finansijskih podataka koristeći alate poput Microsoft Excel-a ili Google Sheets-a
+Sprovođenje forenzičke analize finansijskih podataka
+Evaluacija kako identifikovani problemi ili nepravilnosti utiču na finansijsku stabilnost i performanse organizacije
+Izrada detaljnih forenzičkih izvještaja koji sumiraju zaključke iz finansijskih analiza i istraživanja

@@ -1,0 +1,5 @@
+Pružanje pomoći putnicima tokom prijave za let
+Odgovaranje na upite koji su vezani za letove
+Ovjeravanje putnih isprava i izdavanje karti za ukrcavanje u avion
+Informisanje putnika o ograničenjima vezanim za prtljag
+Mjerenje težine prtljaga i naplaćivanje dodatnih troškova za prekoračenje dozvoljene težine

@@ -1,0 +1,4 @@
+Oblikovanje proizvoda ili proizvodnog procesa u skladu sa zahtjevima i funkcijama
+Testiranje mašinskih materijala kako bi se vidjelo njihovo ponašanje pod različitim opterećenjima
+Analiziranje troškova povezanih sa proizvodnjom, uključujući troškove sirovina, potrošene energije i rada
+Detaljno dokumentovanje svih aspekata mašinskog projekta, uključujući dizajn, analizu, rezultate testiranja i ekonomske procjene

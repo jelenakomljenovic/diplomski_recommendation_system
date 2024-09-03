@@ -1,0 +1,3 @@
+Analiziranje zahtjeva kupaca i razvijanje logističkih planova kako biste ih ispunili
+Dizajniranje, razvijanje i implementacija isplativih logističkih sistema
+Razvijanje strategija za poboljšanje efikasnosti postojećih logističkih operacija

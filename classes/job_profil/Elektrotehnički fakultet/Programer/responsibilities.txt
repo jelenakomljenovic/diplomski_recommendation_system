@@ -1,0 +1,4 @@
+Razvoj novih aplikacija
+Dizajniranje prototipova aplikacije prema potrebama klijenata
+Pisanje programskog koda u različitim programskim paradigmama
+Testiranje softvera, pronalaženje grešaka i riješavanje problema

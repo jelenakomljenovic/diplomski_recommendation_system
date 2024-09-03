@@ -1,0 +1,3 @@
+Kreiranje građevinskih planova koristeći CAD softver i softver za informaciono modelovanje zgrada (BIM)
+Dizajniranje i instaliranje kontrola za sisteme kao što su grijanje, ventilacija i rasvjeta
+Procjenjivanje građevinskih troškova, predstavljanje sopstvenih ideja i izrada izvještaja o napretku

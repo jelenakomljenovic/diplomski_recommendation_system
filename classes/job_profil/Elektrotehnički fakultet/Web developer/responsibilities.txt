@@ -1,0 +1,10 @@
+Pisanje koda u jednom ili više programskih jezika
+Planiranje novih aplikacija i kreiranje prototipa za iste
+Dizajniranje arhitekture komponenti aplikacije
+Rješavanje problema i ispravljanje grešaka u postojećim projektima
+Temeljno testiranje novih funckionalnosti aplikacije kako bi se osiguralo da rade ispravno u svim slučajevima
+Kreiranje i testiranje programskih interfejsa (API-ja) za razmjenu podataka između aplikacija
+Učenje i testiranje novih tehnologija, okvira i programskih jezika
+Rad sa bazama podataka
+Dokumentovanje koda kako bi drugi razvojni programeri mogli razumjeti kod i doprinijeti aplikaciji
+Pisanje i održavanje koda za aplikacije ili web stranice

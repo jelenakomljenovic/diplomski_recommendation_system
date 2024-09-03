@@ -1,0 +1,4 @@
+Razvijanje i implementiranje metoda i sistema za prikupljanje, sastavljanje, sintezu, izdvajanje i izvještavanje epidemioloških podataka
+Dizajniranje planova za statističku analizu, nadgledanje njihovog izvođenja i vođenje detaljne analize podataka
+Pružanje stručnih analiza, savjeta i preporuka baziranih na naučnom razumijevanju zaraznih bolesti kao i novonastalih zdravstvenih prijetnji na globalnom nivou
+Primjenjivanje kombinacije kvalitativnih i kvantitativnih istraživačkih metoda u procesima prikupljanja i analize podataka koji podržavaju razvoj zdravstvenih politika

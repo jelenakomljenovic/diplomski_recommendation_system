@@ -1,0 +1,4 @@
+Rad sa 2D i 3D softverom za projektovanje i proizvodnju (CAD/CAM)
+Rezanje i oblikovanje alata
+Programiranje CNC mašina sa tačnim parametrima za obradu materijala
+Korištenje preciznih mjernih instrumenata za provjeru tačnosti dimenzija izrađenih alata

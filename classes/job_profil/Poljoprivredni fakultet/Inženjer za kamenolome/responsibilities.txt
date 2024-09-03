@@ -1,0 +1,3 @@
+Upotreba geodetskih tehnika za prikupljanje podataka o geologiji lokacije kamenoloma
+Uzimanje uzoraka zemlje i stijena sa lokacije kamenoloma radi detaljnih laboratorijskih analiza
+Kreiranje digitalnih modela lokacije kamenoloma i njenih nalazišta pomoću računarskih softvera

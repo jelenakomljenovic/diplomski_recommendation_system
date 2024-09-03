@@ -1,0 +1,3 @@
+Pisanje testova za svaku fazu razvoja aplikacije
+Identifikacija grešaka ili 'bugova' u programskom kodu
+Analiziranje rezultata testiranja aplikacije, identifikovanje trendova i uzoraka, te pružanje povratnih informacija i preporuka za poboljšanje kvaliteta aplikacija

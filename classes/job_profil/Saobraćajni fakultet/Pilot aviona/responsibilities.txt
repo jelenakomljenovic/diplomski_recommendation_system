@@ -1,0 +1,3 @@
+Upravljanje avionom i komuniciranje sa kontrolorom leta
+Izrada optimalne rute leta na temelju meteoroloških izvještaja i podataka kontrolera leta
+Kreiranje plana leta i sprovođenje dodatnih provjera prije samog leta

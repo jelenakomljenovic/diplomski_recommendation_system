@@ -1,0 +1,5 @@
+Praćenje komunikacije terorista i drugih oblika ilegalnih aktivnosti
+Sprovođenje istraživanja u vezi sa političkom, industrijskom i komercijalnom špijunažom kako bi se identifikovali pokušaji krađe povjerljivih informacija
+Implementacija sigurnosnih mjera za zaštitu IT sistema od sigurnosnih prijetnji i napada
+Primjena tehnika za oporavak izgubljenih ili oštećenih podataka
+Korištenje sofisticiranih alata za analizu zapisa mobilnih telefona

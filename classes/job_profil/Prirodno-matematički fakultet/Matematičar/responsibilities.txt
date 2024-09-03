@@ -1,0 +1,4 @@
+Otkrivanje novih načela i novih odnosa među postojećim matematičkim načelima
+Podučavanje matematike u osnovnim i srednjim školama
+Korištenje teorija i tehnika kao što su matematičko modeliranje i numeričke metode da bi se postavili i riješili praktični problemi u ekonomiji, tehnici, politici i svim drugim područjima prirodnih i društvenih nauka
+Analiziranje matematičkih aspekata računara i komunikacijskih mreža

@@ -1,0 +1,4 @@
+Identifikacija i definisanje poslovnih zahtjeva projekta
+Razvijanje detaljnih planova za unapređenje postojećih ili zamjenu zastarjelih IT sistema
+Sprovođenje detaljnih testova IT sistema kako bi se identifikovali i otklonili svi mogući problemi
+Izrada detaljne procjene potrebnih finansijskih sredstava i vremena za realizaciju predloženih IT sistema

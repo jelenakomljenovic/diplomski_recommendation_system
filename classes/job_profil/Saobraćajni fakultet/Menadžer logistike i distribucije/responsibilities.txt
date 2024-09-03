@@ -1,0 +1,4 @@
+Upravljanje nivoima zaliha, rokovima isporuke i troškovima transporta narudžbi
+Korištenje podataka iz IT sistema za procjenu učinka i kvaliteta usluga kao i za planiranje unapređenja poslovnih procesa
+Efikasno raspoređivanje i upravljanje kadrovskim resursima prema promjenjivim potrebama tržišta
+Planiranje optimalnih ruta za vozila kako bi se osigurao efikasan i pravovremen transport

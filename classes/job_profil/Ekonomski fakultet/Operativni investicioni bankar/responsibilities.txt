@@ -1,0 +1,3 @@
+Izvršavanje transakcija, prenošenjem sredstava i finansijskih proizvoda između prodavca i kupca
+Potvrđivanje vlasništva nad sredstvima ili finansijskim proizvodima kako bi se osiguralo da je transakcija uspješno izvršena i da je prenos vlasništva obavljen tačno i efikasno
+Dokumentovanje svih transakcija i njihovo pravilno prijavljivanje u skladu sa relevantnim regulatornim zahtjevima

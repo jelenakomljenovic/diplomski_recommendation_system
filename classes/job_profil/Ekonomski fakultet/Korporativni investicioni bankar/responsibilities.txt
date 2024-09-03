@@ -1,0 +1,4 @@
+Razvijanje i primjena finansijskih modela za simulaciju različitih scenarija i predviđanje mogućih finansijskih ishoda
+Praćenje tržišnih promjena i njihovog uticaja na investicione odluke i strategije
+Razvijanje i implementacija kompleksnih finansijskih modela za analizu investicionih mogućnosti
+Detaljna analiza finansijskih i numeričkih podataka kako bi se obezbijedile jasne i razumljive interpretacije za klijente

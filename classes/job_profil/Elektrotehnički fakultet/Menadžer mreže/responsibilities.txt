@@ -1,0 +1,4 @@
+Projektovanje, testiranje i instalacija računarske mreže
+Implementacija sigurnosnih mjera računarske mreže u svrhu zaštite od potencijalnih prijetnji i neovlaštenog pristupa
+Razvijanje strategija za sigurnosno kopiranje podataka
+Identifikovanje problema i kvarova mreže te brzo djelovanje kako bi se osigurao nesmetan rad mrežnih sistema

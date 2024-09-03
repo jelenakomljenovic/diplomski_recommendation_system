@@ -1,0 +1,3 @@
+Sprovođenje istraživanja i analize trendova u saobraćaju
+Razvijanje i implementacija saobraćajnih strategija
+Dizajniranje i razvijanje saobraćajnih modela

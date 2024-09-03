@@ -1,0 +1,8 @@
+Korišćenje geografskih informacionih sistema za proučavanje i razumijevanje različitih karakteristika lokacije, kao što su teren, vegetacija i slično
+Generisanje detaljnih informacije o lokaciji koje se kasnije koriste za planiranje, izgradnju i mapiranje
+Korišćenje različite opreme, uključujući globalno pozicioni sistem (GPS) i konvencionalne tehnike mjerenja, za prikupljanje podataka o lokaciji
+Obavljanje mjerenja na terenu kako bi se odredile različite karakteristike terena, uključujući udaljenost, uglove i nadmorsku visinu
+Sakupljanje podatka o prirodnim i vještačkim karakteristikama zemljišta kroz terenska istraživanja
+Korištenje digitalne tehnologije za izradu mapa i karakteristika terena
+Interpretiranje podataka koristeći mape, grafike i planove
+Korištenje računarskih programa za obradu podataka i prikazivanje informacija 

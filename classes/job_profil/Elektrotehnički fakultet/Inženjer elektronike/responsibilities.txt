@@ -1,0 +1,3 @@
+Procjena novih inovacija u području elektronike
+Razvijanje detaljnih tehničkih planova i dizajna električnih sistema koristeći CAD
+Testiranje prototipova električnih uređaja kako bi se osiguralo da ispunjavaju specifične zahtjeve i standarde, te analiziranje rezultata testiranja

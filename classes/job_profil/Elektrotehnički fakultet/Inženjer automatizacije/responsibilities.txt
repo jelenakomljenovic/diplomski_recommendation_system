@@ -1,0 +1,4 @@
+Projektovanje automatizovanih sistema pomoću računarskog softvera
+Konstruisanje i programiranje prototipova robota, uz detaljno testiranje i ispravljanje bilo kakvih grešaka
+Dubinska analiza podataka prikupljenih putem robotskih senzora, instrumenata i kamera
+Redovno izvještavanje o potencijalnim rizicima, problemima te opštem napretku projekata u području robotike

@@ -1,0 +1,5 @@
+Implementacija novih IT sistema koji zadovoljavaju sigurnosne standarde
+Ažuriranje i unapređenje postojeće hardverske i softverske infrastrukture te mrežnih resursa
+Instalacija novih računara za korisnike te sprovođenje obuka za zaposlene
+Izvođenje redovnih održavanja računarske opreme kako bi se minimizovali rizici od kvarova
+Servisiranje i popravak neispravne računarske opreme

@@ -1,0 +1,5 @@
+Dodjeljivanje prava pristupa bazi podataka
+Identifikovanje sistema sa kojima će se baza podataka povezati
+Pronalaženje, organizovanje i prikazivanje podataka
+Unos novih informacija u bazu podataka
+Ažuriranje podataka, izrada sigurnosne kopije baze podataka i prijavljivanje grešaka

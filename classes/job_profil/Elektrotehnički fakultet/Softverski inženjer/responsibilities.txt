@@ -1,0 +1,4 @@
+Aktivno učestvovanje na sastancima vezanim za tehnički dizajn i arhitekturu sistema
+Pisanje programskog koda i održavanje postojećih aplikacija
+Sprovođenje testiranja softvera kako bi se pronašli i otklonili problemi prije puštanja softvera u produkciju
+Detaljno bilježenje svih promjena i ažuriranja u kodu u svrhu praćenja i dokumentacije razvoja softvera

@@ -1,0 +1,5 @@
+Prikupljanje i analiziranje podataka matematičkim i statističkim metodama
+Kreiranje računarskih modela za testiranje rješenja problema
+Razvijanje i implementacija računarskih modela koji simuliraju stvarne scenarije, omogućujući testiranje i procjenu različitih rješenja za složene probleme
+Analiziranje postojećih poslovnih procesa i sistema kako bi se identifikovale slabosti i predložile konkretne promjene za poboljšanje učinkovitosti i produktivnosti
+Optimizacija poslovnih procesa i sistema

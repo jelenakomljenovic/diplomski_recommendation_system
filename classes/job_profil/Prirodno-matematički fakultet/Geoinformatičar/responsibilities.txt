@@ -1,0 +1,4 @@
+Korištenje savremenih tehnika za prikupljanje geoprostornih podataka, uključujući satelitske snimke, dronove, GPS uređaje i druge metode
+Obrada prikupljenih podataka korištenjem softverskih alata za geoinformacione sisteme (GIS) kao što su ArcGIS, QGIS, ENVI
+Integracija prostornih podataka sa informacionim tehnologijama radi kreiranja interaktivnih mapa, baza podataka i aplikacija koje olakšavaju pristup i analizu geoprostornih informacija
+Korištenje geoprostornih podataka za pomoć u prostornom planiranju i urbanizmu

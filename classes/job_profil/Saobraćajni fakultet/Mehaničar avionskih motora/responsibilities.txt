@@ -1,0 +1,4 @@
+Pregledanje i testiranje komponenti motora aviona
+Dijagnostifikovanje kvarova motora aviona
+Popravka i zamjena dijelova, komponenti i sistema motora kod aviona
+Sprovođenje rutinskih provjera održavanja aviona

@@ -1,0 +1,4 @@
+Pregledanje da li vozila ispunjavaju sigurnosne i ekološke standarde
+Vršenje testova na putu u svrhu identifikacije problema sa vozilom
+Pregledanje komponenti vozila kao što su kočnice, svjetla, gume i vjetrobransko staklo
+Testiranje električnih sistema i komponenti vozila

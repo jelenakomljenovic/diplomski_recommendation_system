@@ -1,0 +1,3 @@
+Razvijanje tehničkih strategija za IT sisteme
+Analiza i segmentacija IT zahtjeva u manje dijelove posla kako bi se omogućila efikasna i precizna realizacija projekta
+Identifikacija i procjena rizika povezanih sa različitim IT pristupima te razvoj strategija za njihovu minimizaciju

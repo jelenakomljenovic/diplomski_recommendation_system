@@ -1,0 +1,7 @@
+Pripremanje sudnice
+Provjeravanje prisutnosti svjedoka, optuženih i advokata
+Pozivanje optuženih i svjedoka na sud
+Proslijeđivanje pravnih dokaza sudijama
+Unos sudskih podataka u računarski sistem
+Sprječavanje neovlaštenih osoba da razgovaraju sa porotom
+Vođenje komunikacije između porote i sudije

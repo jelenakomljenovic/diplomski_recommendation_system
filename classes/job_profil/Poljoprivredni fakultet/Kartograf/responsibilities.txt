@@ -1,0 +1,5 @@
+Dizajniranje digitalnih ili papirnih geografskih karata
+Provjeravanje preciznosti kartografskih materijala
+Uređivanje geografskih karata dodavanjem ili uklanjanjem novih puteva ili zgrada
+Prikupljanje i analiziranje podataka sa udaljenih senzora na satelitima i avionima u svrhu dobijanja detaljnih informacija o Zemljinoj površini
+Istaživanje kopna, mora ili obalnih područja

@@ -1,0 +1,5 @@
+Simulacija transportnih problema koristeći računarske modele
+Prikupljanje i obrada velikih količina podataka vezanih za saobraćaj
+Predviđanje uticaja novih razvoja poput tržnih centara
+Evaluacija i dizajniranje sistema koji regulišu i optimizuju korištenje saobraćajne infrastrukture
+Analiziranje uzroka saobraćajnih nesreća na određenim mjestima i razvijanje tehničkih rješenja za povećanje bezbjednosti

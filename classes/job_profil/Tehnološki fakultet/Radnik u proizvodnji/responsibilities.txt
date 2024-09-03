@@ -1,0 +1,3 @@
+Mjerenje, sortiranje i ubacivanje sirovina u mašine za proizvodnju
+Praćenje procesa proizvodnje uz sprovođenje osnovnih ispitivanja i kontrola kvaliteta
+Povezivanje različitih dijelova i komponenti kako bi se stvorio gotov proizvod

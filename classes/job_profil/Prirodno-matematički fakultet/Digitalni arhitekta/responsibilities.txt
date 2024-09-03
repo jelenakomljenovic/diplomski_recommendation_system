@@ -1,0 +1,4 @@
+Dizajniranje virtuelnih zgrada i prostora u različite svrhe
+Korištenje različitih softvera za modeliranje, renderovanje i animaciju kako bi se stvorili vizualno atraktivni i funkcionalni digitalni prostori
+Kreiranje digitalnih modela za potrebe različitih projekata
+Dizajn i implementacija digitalnih modela gradova radi unapređenja urbanističkog planiranja

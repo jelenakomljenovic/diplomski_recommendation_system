@@ -1,0 +1,4 @@
+Aktivno učestvovanje u kontinuiranom održavanju i unapređenju web stranica
+Upravljanje sadržajem web stranica korištenjem različitih sustava za upravljanje sadržajem (CMS) 
+Praćenje i analiziranje statistike o posjećenosti i ponašanju korisnika na web stranicama radi poboljšanja korisničkog iskustva
+Identifikacija i prijava tehničkih problema IT podršci, osiguravajući brzo i efikasno rješavanje istih kako bi web stranica bila uvijek dostupna i funkcionalna

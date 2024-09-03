@@ -1,0 +1,4 @@
+Unos podataka iz tehničkih crteža u CNC mašinu kako bi se osigurala tačna i precizna proizvodnja
+Upravljanje i nadgledanje rada CNC mašine
+Izvođenje simulacija i testiranja CNC programa prije stvarne proizvodnje kako bi se identifikovale i otklonile potencijalne greške
+Analiza i implementacija strategija za smanjenje proizvodnih troškova

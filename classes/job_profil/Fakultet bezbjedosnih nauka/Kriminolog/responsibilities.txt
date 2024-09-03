@@ -1,0 +1,4 @@
+Istraživanje uzoraka zločina
+Analiziranje podataka iz različitih izvora za identifikaciju trendova i obrazaca u kriminalnim aktivnostima
+Razvoj i implementacija programa za prevenciju kriminala i rehabilitaciju prestupnika
+Predlaganje strategija za unapređenje efikasnosti kaznenih mjera

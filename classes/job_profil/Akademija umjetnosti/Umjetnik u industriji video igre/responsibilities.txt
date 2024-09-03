@@ -1,0 +1,3 @@
+Razvoj visokokvalitetnih umjetničkih elemenata za video igre, uključujući teksture, likove, okruženje i druge resurse
+Razvoj animacija za hodanje, trčanje, borbu i druge radnje likova u video igrama
+Osiguravanje da umjetnički elementi ne usporavaju performanse igre, optimizujući modele i teksture

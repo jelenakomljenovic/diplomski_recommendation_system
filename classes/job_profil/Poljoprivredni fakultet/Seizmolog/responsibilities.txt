@@ -1,0 +1,3 @@
+Praćenje i analiza podataka sa seizmičkih senzora širom svijeta
+Identifikacija i vizuelni prikaz područja na Zemljinoj površini koja su sklona seizmičkoj aktivnosti, poput zemljotresa
+Razvijanje sistema ranog upozorenja za zone zemljotresa

@@ -1,0 +1,3 @@
+Izučavanje sastava organizma i njegovih ćelija
+Istraživanje DNK uz pomoć različitih matematičkih formula i računarskih programa
+Bavljenje različitim vrstama analiza, poput analize bakterijskih i viralnih genoma, te sekundarne strukture proteina, kao i pokušajem rekonstrukcije sekvenci jednog genoma

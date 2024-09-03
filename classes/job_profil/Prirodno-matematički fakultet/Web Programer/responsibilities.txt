@@ -1,0 +1,4 @@
+Razvoj web aplikacija, portala i sajtova
+Razvijanje specijalizovanih aplikacija koje rješavaju konkretne probleme ili obavljaju specifične zadatke za korisnika
+Modifikacija postojećih opštih aplikacija kako bi se prilagodile specifičnim potrebama korisnika
+Razvoj i održavanje programa koji upravljaju softverskim sistemima kao što su operativni sistemi ili sistemi za upravljanje bazama podataka

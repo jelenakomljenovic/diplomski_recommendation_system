@@ -1,0 +1,4 @@
+Dizajniranje, razvijanje i testiranje automobilskih sistema i komponenti
+Sprovođenje detaljnih studija i analitičkih procesa kako bi se razumjelo šta kupci žele i očekuju od automobilskih sistema
+Razvijanje specifikacija automobilskih sistema
+Kreiranje planova testiranja za procjenu i verifikaciju funkcionalnosti automobilskih sistema

@@ -1,0 +1,3 @@
+Precizno mjerenje i izračunavanje dimenzija slova i grafika kako bi se osiguralo da odgovaraju prostoru i zahtjevima
+Kreiranje dizajna za znakove i natpise
+Ručno oslikavanje i dizajniranje natpisa koristeći specijalizovan pribor

@@ -1,0 +1,4 @@
+Dizajn, instalacija i nadogradnja mrežnih sistema
+Praćenje performansi mrežnih sistema te brzo identifikovanje i ispravljanje grešaka
+Osiguravanje usklađenosti mrežnih sistema sa tehničkim i sigurnosnim standardima
+Kreiranje i upravljanje računima korisnika, konfiguracija dozvola te implementacija zaštitnog zida za optimalnu sigurnost mreže

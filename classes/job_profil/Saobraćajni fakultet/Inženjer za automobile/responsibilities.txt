@@ -1,0 +1,3 @@
+Dizajniranje i razvijanje komponenti i sistema za automobile
+Testiranje komponenti i sistema automobila
+Interpretacija rezultata testova komponenti automobila kako bi identifikovale slabosti, prednosti i mogućnosti za unapređenje

@@ -1,0 +1,3 @@
+Tehnička kontrola tramvaja prije početka vožnje
+Upravljanje tramvajem po zadatim rutama
+Korištenje sistema razglasa za obavještavanje putnika o nadolazećim stanicama, promjenama u ruti ili drugim relevantnim informacijama vezanih za tramvaj

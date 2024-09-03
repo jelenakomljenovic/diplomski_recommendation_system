@@ -1,0 +1,5 @@
+Procjenjivanje uticaja metoda poljoprivredne proizvodnje na životnu sredinu
+Nadgledanje građevinskih projekata, kao što su drenaža zemljišta, rekultivacija i navodnjavanje
+Rješavanje inženjerskih problema, poput dizajniranja vozila za sve terenske i vremenske uslove
+Testiranje i instalacija novih poljoprivrednih mašina i opreme, kao što su kombajni ili prskalice
+Upotreba globalno pozicionih sistema (GPS), meteoroloških podatke i računarskog modeliranja kako bi se pružili savjeti o optimalnom korištenju zemljišta u poljoprivredi, uključujući planiranje usjeva, navodnjavanje, ili primjena đubriva

@@ -1,0 +1,3 @@
+Praćenje i usmjeravanje aviona koji lete na visokim nadmorskim visinama kroz određeni sektor
+Usmjeravanje aviona prilikom slijetanja na aerodrom te izdavanje navigacijskih smjernica avionima koji su nedavno poletjeli
+Davanje dopuštenja za slijetanje i polijetanje aviona, kao i usmjeravanje pilota do ispravnih pozicija na stajalištima i pistama

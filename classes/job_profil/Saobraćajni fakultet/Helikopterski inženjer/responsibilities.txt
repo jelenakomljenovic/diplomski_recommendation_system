@@ -1,0 +1,4 @@
+Korištenje softverskih programa za dijagnostifikovanje kvarova helikoptera
+Pronalaženje i otklanjanje kvarova na vazdušnim sredstvima
+Vršenje provjere da li vazdušna sredstva ispunjavaju propise o sigurnosti letenja
+Rad na modifikacijama vazdušnih sredstava

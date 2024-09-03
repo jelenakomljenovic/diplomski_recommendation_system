@@ -1,0 +1,6 @@
+Razvijanje inženjerskih planova koristeći računarski softver
+Istraživanje svojstava građevinskih materijala poput stakla, čelika i betona
+Izvršavanje proračuna opterećenja i naprezanja na različitim segmentima zgrade
+Korišćenje računarskih modela u svrhu predviđanja kako će građevinske strukture reagovati na različite vremenske prilike
+Obavljanje inspekcije na zgradama koje su u lošem stanju i donošenje odluka o eventualnom rušenju
+Utvrđivanje razloga urušavanja zgrada

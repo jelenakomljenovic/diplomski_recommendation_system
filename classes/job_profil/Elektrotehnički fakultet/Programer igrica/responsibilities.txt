@@ -1,0 +1,4 @@
+Kreiranje vizuelnog i interaktivnog izgleda igrice
+Pisanje koda potrebnog za funkcionalnost igrice
+Integracija zvučnih efekata koji poboljšavaju atmosferu igrice
+Kreiranje konceptualnih umjetnosti, detaljnih crteža i scenarija u fazi planiranja igrice

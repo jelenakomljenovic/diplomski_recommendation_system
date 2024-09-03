@@ -1,0 +1,4 @@
+Prikupljanja uzoraka tla iz različitih okruženja
+Izrada karata koje prikazuju raspodjelu različitih tipova tla
+Nadgledanje laboratorijskih eksperimenata koji ispituju uzorke tla
+Analiziranje uzoraka tla u laboratorijama

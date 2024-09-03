@@ -1,0 +1,11 @@
+Proučavanje životinja u zatočeništvu ili u njihovom prirodnom okruženju
+Obavljanje laboratorijskih i/ili terenskih istraživanja vezano za životinje
+Prikupljanje, skladištenje i pripremanje uzoraka za analizu bioloških i ekoloških karakteristika životinja
+Identifikacija, evidentiranje i praćenje vrsta životinja
+Upravljanje velikim skupovima podataka o životinjama i korišćenje statističkih softverskih paketa
+Korištenje modelirajućeg softvera za predviđanje budućih scenarija, poput promjena staništa životinje ili samog broja populacija
+Pisanje znanstvenih izvještaja i izdavanje preporuka na temelju istraživanja o životinjama
+Vođenje brige o životinjama, njihovom kretanju i staništima
+Rehabilitacija i puštanje životinja nazad u njihovo prirodno okruženje
+Identifikacija, praćenje i rješavanje problema invazivnih vrsta životinja kao i drugih prijetnji
+Korištenje softvera ili opreme, kao što su geografski informacioni sistemi (GIS), globalno pozicioni sistemi (GPS), sonografi i video snimači, za istraživanje i praćenje životinja u njihovom prirodnom okruženju

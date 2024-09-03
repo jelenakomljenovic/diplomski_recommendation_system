@@ -1,0 +1,5 @@
+Izračunavanje rizika povezanih sa transakcijama
+Povezivanje sa osiguranicima i osiguravajućim kućama radi prikupljanja potrebnih informacija za procjenu rizika
+Praćenje i analiza tržišnih trendova i ekonomskih pokazatelja kako bi se prognozirali budući rizici
+Analiza tržišne pozicije banke koristeći složene tehnike modeliranja
+Razvijanje kvantitativnih modela za procjenu rizika i analiziranje njihovih uticaja na poslovanje

@@ -1,0 +1,4 @@
+Razumijevanje i korištenje složenih matematičkih formula, posebno u području napredne statistike i modeliranja
+Korištenje tablica ili drugog specijalističkog softvera za izvršavanje zadataka analize podataka
+Pružanje tehničke podrške timu aktuara, kao i izrađivanje statističkih izvještaja i analiza
+Sposobnost obavljanja statističke analize, kao što su skeniranje i čišćenje podataka te interpretacija trendova i odnosa između skupova podataka

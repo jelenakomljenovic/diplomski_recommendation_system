@@ -1,0 +1,4 @@
+Identifikovanje uobičajenih slabosti u IT mrežama
+Dubinska analiza i evaluacija potencijalnih sajber prijetnji glavnim sigurnosnim sistemima
+Upotreba metoda računarske forenzike za utvrđivanje identiteta sajber napadača i razumijevanje njihovih metoda
+Upravljanje i ažuriranje baza podataka koje sadrže informacije o prijetnjama i poznatim sajber napadačima

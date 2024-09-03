@@ -1,0 +1,5 @@
+Korištenje 2D ili 3D softvera za izradu skica, šema, modela i detaljnih crteža
+Provjeravanje da li 2D ili 3D crteži zadovoljavaju standarde kvalitete i tehničke standarde
+Identifikovanje i ispravljanje grešaka na 2D i 3D crtežima
+Interpretiranje inženjerskih crteža i vršenje matematičkih proračuna za izračunavanje ključnih parametara kao što su uglovi, težine i troškovi
+Vođenje precizne evidencije o različitim verzijama dizajnerskog rada

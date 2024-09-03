@@ -1,0 +1,5 @@
+Prilagođavanje sistema hardvera i softvera potrebama preduzeća
+Održavanje i zaštita podataka
+Razvoj i implementacija programskog koda
+Konfiguracija i nadgledanje ličnih računara koji funkcionišu kao serveri u mrežnim okruženjima, uključujući nadzor i rješavanje problema sa mrežama
+Pisanje računarskih programa prilagođenih potrebama korisnika

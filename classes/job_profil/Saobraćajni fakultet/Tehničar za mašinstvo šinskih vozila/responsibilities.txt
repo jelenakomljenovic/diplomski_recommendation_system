@@ -1,0 +1,4 @@
+Ugrađnja rasvjete, kontrolnih tabli i komunikacijskih sistema u motore i vagone
+Popravljanje i mijenjanje dijelova kod šinskih vozila
+Vršenje redovnih provjera kočnica i spojnica šinskih vozila
+Rastavljanje, testiranje i sastavljanje mehaničkih, električnih i pneumatskih sistema šinskih vozila

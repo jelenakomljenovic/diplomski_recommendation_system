@@ -1,0 +1,4 @@
+Razvoj aplikacija za mobilne uređaje
+Dizajn, razvoj i testiranje softvera
+Poboljšavanje stabilnosti i održavanje softverskih sistema
+Istraživanje i implementacija novih tehnologija i alata koji mogu poboljšati efikasnost razvoja softvera

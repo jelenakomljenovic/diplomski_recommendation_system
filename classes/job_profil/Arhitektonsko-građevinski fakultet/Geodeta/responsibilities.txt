@@ -1,0 +1,5 @@
+Mjerenje svih podataka neophodnih za definisanje veličine, položaja, oblika i obrisa bilo kojeg dijela Zemlje
+Određivanje položaja objekata u prostoru, kao i praćenje položaja prirodnih i izgrađenih objekata u prostoru i vremenu
+Razvoj, ispitivanje i kalibracija geodetskih instrumenata i senzora
+Utvrđivanje položaja javnih granica i privatnog zemljišta, uključujući nacionalne i međunarodne granice
+Mjerenje kopnenih i morskih zaliha
